@@ -30,3 +30,6 @@ Open the solution in Visual Studio 2026 or later. The project targets modern .NE
 
 ## Disclaimer
 This project is not affiliated with, endorsed by, or sponsored by Harman International, DigiTech, or Lexicon. Use this software at your own risk. While extensive care has been taken to ensure the flashing process is safe and matches the original OEM behavior, the authors are not responsible for bricked or damaged hardware.
+
+## Screenshot
+<img width="359" height="490" alt="image" src="https://github.com/user-attachments/assets/3f6df438-ef88-4d53-8180-d99861ae5964" />
