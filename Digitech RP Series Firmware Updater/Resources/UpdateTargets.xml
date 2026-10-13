@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Config xmlns="http://schemas.harmanmusicgroup.com/updater/2008/10">
+	<Brand Name="DigiTech">
+		<Family Name="RP" FamilyID="0x5E">
+			<Product Name="RP150" ProductID="0x1">
+				<Ports>
+					<!--Vista-->
+					<Port Name="DigiTech USB X-Edit" />
+					<!--XP (with driver)-->
+					<Port Name="RP150 USB MIDI" />
+					<!--XP (no driver)-->
+					<Port Name="USB Audio Device" />
+					<!--Mac-->
+					<Port Name="DigiTech RP150" />
+				</Ports>
+				<Revisions>
+					<Revision Version="1.1" ReleaseDate="Oct 18, 2006" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/rp150/rp15011.DigBin" SpecialPostInstructions="You must factory reset your RP150 before using it. Please refer to your product manual for details."/>
+					<Revision Version="1.2" ReleaseDate="Dec 18, 2006" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/rp150/rp15012.DigBin" SpecialPostInstructions="You must factory reset your RP150 before using it. Please refer to your product manual for details."/>
+					<Revision Version="1.4" ReleaseDate="Mar 12, 2007" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/rp150/rp15014.DigBin" SpecialPostInstructions="You must factory reset your RP150 before using it. Please refer to your product manual for details."/>
+					<Revision Version="1.5" ReleaseDate="Nov 10, 2008" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/rp150/rp15015.DigBin" SpecialPostInstructions="Please wait for your RP150 to reset."/>
+					<Revision Version="1.6" ReleaseDate="Mar 19, 2009" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/rp150/rp15016.DigBin" SpecialPostInstructions="Please wait for your RP150 to reset."/>
+				</Revisions>
+			</Product>
+			<Product Name="RP155" ProductID="0x7">
+				<Ports>
+					<!--Vista/Mac-->
+					<Port Name="DigiTech RP155" />
+					<!--XP (with driver)-->
+					<Port Name="RP155 USB MIDI" />
+					<!--XP (no driver)-->
+					<Port Name="USB Audio Device" />
+				</Ports>
+				<Revisions>
+					<Revision Version="1.0" ReleaseDate="Feb 06, 2009" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/rp155/rp155V10.DigBin" SpecialPostInstructions="Please wait for your RP155 to reset."/>
+					<Revision Version="1.1" ReleaseDate="May 07, 2009" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/rp155/rp155V11.DigBin" SpecialPostInstructions="Please wait for your RP155 to reset."/>
+				</Revisions>
+			</Product>
+			<Product Name="RP250" ProductID="0x2" >
+				<Ports>
+					<!--Vista-->
+					<Port Name="DigiTech USB X-Edit" />
+					<!--XP (with driver)-->
+					<Port Name="RP250 USB MIDI" />
+					<!--XP (no driver)-->
+					<Port Name="USB Audio Device" />
+					<!--Mac-->
+					<Port Name="DigiTech RP250" />
+				</Ports>
+				<Revisions>
+					<Revision Version="1.5" ReleaseDate="Sep 12, 2006" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/rp250/rp25015.DigBin" SpecialPostInstructions="You must factory reset your RP250 before using it. Please refer to your product manual for details."/>
+					<Revision Version="1.6" ReleaseDate="Oct 11, 2006" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/rp250/rp25016.DigBin" SpecialPostInstructions="You must factory reset your RP250 before using it. Please refer to your product manual for details."/>
+					<Revision Version="1.7" ReleaseDate="Dec 19, 2006" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/rp250/rp25017.DigBin" SpecialPostInstructions="You must factory reset your RP250 before using it. Please refer to your product manual for details."/>
+					<Revision Version="1.9" ReleaseDate="Feb 28, 2007" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/rp250/rp25019.DigBin" SpecialPostInstructions="You must factory reset your RP250 before using it. Please refer to your product manual for details."/>
+					<Revision Version="2.0" ReleaseDate="Nov 10, 2008" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/rp250/rp25020.DigBin" SpecialPostInstructions="Please wait for your RP250 to reset, then complete the calibration procedure."/>
+				</Revisions>
+			</Product>
+			<Product Name="RP255" ProductID="0x8">
+				<Ports>
+					<!--Vista/Mac-->
+					<Port Name="DigiTech RP255" />
+					<!--XP (with driver)-->
+					<Port Name="RP255 USB MIDI" />
+					<!--XP (no driver)-->
+					<Port Name="USB Audio Device" />
+				</Ports>
+				<Revisions>
+					<Revision Version="1.0" ReleaseDate="Feb 05, 2009" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/rp255/rp255V10.DigBin" SpecialPostInstructions="Please wait for your RP255 to reset, then complete the calibration procedure."/>
+					<Revision Version="1.1" ReleaseDate="May 05, 2009" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/rp255/rp255V11.DigBin" SpecialPostInstructions="Please wait for your RP255 to reset, then complete the calibration procedure."/>
+				</Revisions>
+			</Product>
+			<Product Name="RP350" ProductID="0x3">
+				<Ports>
+					<!--Vista-->
+					<Port Name="DigiTech USB X-Edit" />
+					<!--XP (with driver)-->
+					<Port Name="RP350 USB MIDI" />
+					<!--XP (no driver)-->
+					<Port Name="USB Audio Device" />
+					<!--Mac-->
+					<Port Name="DigiTech RP350" />
+				</Ports>
+				<Revisions>
+					<Revision Version="1.1" ReleaseDate="Dec 18, 2006" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/rp350/rp350_11.DigBin" SpecialPostInstructions="You must factory reset your RP350 before using it. Please refer to your product manual for details."/>
+					<Revision Version="1.3" ReleaseDate="Mar 12, 2007" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/rp350/rp350_13.DigBin" SpecialPostInstructions="You must factory reset your RP350 before using it. Please refer to your product manual for details."/>
+					<Revision Version="1.4" ReleaseDate="Nov 10, 2008" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/rp350/rp350_14.DigBin" SpecialPostInstructions="Please wait for your RP350 to reset, then complete the calibration procedure."/>
+				</Revisions>
+			</Product>
+			<Product Name="RP355" ProductID="0x9">
+				<Ports>
+					<!--Vista/Mac-->
+					<Port Name="DigiTech RP355" />
+					<!--XP (with driver)-->
+					<Port Name="RP355 USB MIDI" />
+					<!--XP (no driver)-->
+					<Port Name="USB Audio Device" />
+				</Ports>
+				<Revisions>
+					<Revision Version="1.1" ReleaseDate="Feb 02, 2009" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/rp355/rp355V11.DigBin" SpecialPostInstructions="Please wait for your RP355 to reset, then complete the calibration procedure."/>
+					<Revision Version="1.3" ReleaseDate="May 18, 2009" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/rp355/rp355V13.DigBin" SpecialPostInstructions="Please wait for your RP355 to reset, then complete the calibration procedure."/>
+					<Revision Version="1.4" ReleaseDate="June 9, 2009" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/rp355/rp355V14.DigBin" SpecialPostInstructions="Please wait for your RP355 to reset, then complete the calibration procedure."/>
+				</Revisions>
+			</Product>
+			<Product Name="BP355" ProductID="0xA">
+				<Ports>
+					<!--Vista/Mac-->
+					<Port Name="DigiTech BP355" />
+					<!--XP (with driver)-->
+					<Port Name="BP355 USB MIDI" />
+					<!--XP (no driver)-->
+					<Port Name="USB Audio Device" />
+				</Ports>
+				<Revisions>
+					<Revision Version="1.1" ReleaseDate="Sept 13, 2011" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/bp355/bp355V11.DigBin" SpecialPostInstructions="Please wait for your BP355 to reset, then complete the calibration procedure."/>
+				</Revisions>
+			</Product>
+			<Product Name="RP360">
+				<Revisions>
+					<Revision Version="01.01.00.00" ReleaseDate="February 7, 2014" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/rp360/rp360v01010000.DigBin" />
+					<Revision Version="01.03.00.00" ReleaseDate="March 5, 2014" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/rp360/rp360v01030000.DigBin" />
+				</Revisions>
+			</Product> 
+			<Product Name="Nexus">
+				<Revisions>
+					<Revision Version="1.0.0" ReleaseDate="January 14, 2014" 
+					WinImageUrl="http://www.lexiconpro.com/updater/digitech/software/Nexus/NexusSetup_Win_Version_1.0.0.exe" 
+					MacImageUrl="http://www.lexiconpro.com/updater/digitech/software/Nexus/NexusSetup_Mac_Version_1.0.0.dmg" />
+					<Revision Version="1.0.1" ReleaseDate="March 11, 2014" 
+					WinImageUrl="http://www.lexiconpro.com/updater/digitech/software/Nexus/NexusSetup_Win_Version_1.0.1.exe" 
+					MacImageUrl="http://www.lexiconpro.com/updater/digitech/software/Nexus/NexusSetup_Mac_Version_1.0.1.dmg" />
+				</Revisions>
+			</Product> 
+			<Product Name="RP500" ProductID="0x5">
+				<Ports>
+					<!--Mac, Vista/XP (prefix on windows)-->
+					<Port Name="DigiTech RP500" />
+					<!--XP (no driver)-->
+					<Port Name="USB Audio Device" />
+				</Ports>
+				<Revisions>
+					<Revision Version="1.2" ReleaseDate="Mar 27, 2008" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/rp500/rp500V12.DigBin" SpecialPostInstructions="Please wait for your RP500 to reset, then complete the calibration procedure."/>
+					<Revision Version="1.4" ReleaseDate="Nov 18, 2008" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/rp500/rp500V14.DigBin" SpecialPostInstructions="Please wait for your RP500 to reset, then complete the calibration procedure."/>
+					<Revision Version="2.0" ReleaseDate="Dec 02, 2009" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/rp500/rp500V20.DigBin" SpecialPostInstructions="Please wait for your RP500 to reset, then complete the calibration procedure."/>
+				</Revisions>
+			</Product>
+			<Product Name="RP1000" ProductID="0x06">
+        			<Ports>
+						<!--Mac, Vista/XP (prefix on windows)-->
+						<Port Name="DigiTech RP1000" />
+						<!--XP (no driver)-->
+						<Port Name="USB Audio Device" />
+        			</Ports>
+        			<Revisions>
+					<Revision Version="1.0" ReleaseDate="Dec 17, 2008" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/rp1000/rp1000V10.DigBin" SpecialPostInstructions="Please wait for your RP1000 to reset, then complete the calibration procedure."/>
+          				<Revision Version="1.1" ReleaseDate="Mar 24, 2009" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/rp1000/rp1000V11.DigBin" SpecialPostInstructions="Please wait for your RP1000 to reset, then complete the calibration procedure."/>
+					<Revision Version="1.2" ReleaseDate="Mar 25, 2009" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/rp1000/rp1000V12.DigBin" SpecialPostInstructions="Please wait for your RP1000 to reset, then complete the calibration procedure."/>
+     				</Revisions>
+      		</Product>
+		</Family>
+		<Family Name="GSP Rack Products" FamilyID="0x5F">
+			<Product Name="GSP1101" ProductID="0x01">
+				<Ports>
+					<!--Mac, Vista/XP (prefix on windows)-->
+					<Port Name="DigiTech GSP1101" />
+					<!--XP (no driver)-->
+					<Port Name="USB Audio Device" />
+				</Ports>
+				<Revisions>
+					<Revision Version="1.1" ReleaseDate="June 25, 2007" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/gsp1101/Gsp1101v11.DigBin" SpecialPostInstructions="Please wait for your GSP1101 to reset."/>
+					<Revision Version="1.2" ReleaseDate="July 16, 2007" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/gsp1101/Gsp1101v12.DigBin" SpecialPostInstructions="Please wait for your GSP1101 to reset."/>
+					<Revision Version="1.3" ReleaseDate="Sept 13, 2007" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/gsp1101/Gsp1101v13.DigBin" SpecialPostInstructions="Please wait for your GSP1101 to reset."/>
+					<Revision Version="2.0" ReleaseDate="Jan 16, 2008" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/gsp1101/Gsp1101v20.DigBin" SpecialPostInstructions="Please wait for your GSP1101 to reset."/>
+					<!--
+					<Revision Version="C20" ReleaseDate="Not Released" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/gsp1101/Gsp1101vC20.DigBin" SpecialPostInstructions="Please wait for your GSP1101 to reset."/>
+					-->
+				</Revisions>
+			</Product>
+		</Family>
+		<Family Name="X-Floor Guitar Processor" FamilyID="0x5C">
+			<Product Name="GNX3000" ProductID="0x4">
+				<Ports>
+					<!--Vista-->
+					<Port Name="DigiTech USB MIDI" Count="2" />
+					<!--XP (with driver) or Mac-->
+					<Port Name="DigiTech X-Edit" Count="2"/>
+					<!--XP (no driver)-->
+					<Port Name="USB Audio Device" Count="2"/>
+				</Ports>
+				<Revisions>
+					<Revision Version="1.0" ReleaseDate="Aug 9, 2008" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/gnx3000/GNX3K_v10.DigBin" SpecialPostInstructions="You must power-cycle then factory reset your GNX3000 before using it. Please refer to your product manual for details."/>
+					<Revision Version="1.1" ReleaseDate="Aug 9, 2008" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/gnx3000/GNX3K_v11.DigBin" SpecialPostInstructions="You must power-cycle then factory reset your GNX3000 before using it. Please refer to your product manual for details."/>
+					<Revision Version="1.2" ReleaseDate="Aug 9, 2008" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/gnx3000/GNX3K_v12.DigBin" SpecialPostInstructions="You must power-cycle then factory reset your GNX3000 before using it. Please refer to your product manual for details."/>
+				</Revisions>
+			</Product>
+		</Family>
+		<Family Name="JamMan Loopers" FamilyID="0x5D" Protocol="Greenglass">
+			<Product Name="JamMan Solo" ProductID="0x2">
+				<Revisions>
+					<Revision Version="1.0" ReleaseDate="Feb 22, 2010" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/JamManSolo/v1.0/updJamManSoloTar" />
+					<Revision Version="1.1" ReleaseDate="May 11, 2010" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/JamManSolo/v1.1/updJamManSoloTar" />
+					<Revision Version="1.2" ReleaseDate="July 18,2011" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/JamManSolo/v1.2/updJamManSoloTar" />
+					<Revision Version="1.3" ReleaseDate="August 20,2012" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/JamManSolo/v1.3/updJamManSoloTar" />
+				</Revisions>
+			</Product> 
+			<Product Name="JamMan Stereo" ProductID="0x3">
+				<Revisions>
+					<Revision Version="1.0.0.0" ReleaseDate="Apr 24, 2010" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/JamManStereo/v1.0.0.0/updJamManStereoTar" />
+					<Revision Version="1.1.0.7" ReleaseDate="Dec 23, 2010" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/JamManStereo/v1.1.0.7/updJamManStereoTar" />
+					<Revision Version="1.1.0.8" ReleaseDate="April 13, 2011" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/JamManStereo/v1.1.0.8/updJamManStereoTar" />
+					<Revision Version="1.1.0.9" ReleaseDate="May 11, 2011" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/JamManStereo/v1.1.0.9/updJamManStereoTar" />
+					<Revision Version="1.2.0.0" ReleaseDate="July 18, 2011" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/JamManStereo/v1.2.0.0/updJamManStereoTar" />
+					<Revision Version="1.3.0.0" ReleaseDate="August 23, 2012" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/JamManStereo/v1.3.0.0/updJamManStereoTar" />
+				</Revisions>
+			</Product>
+			<Product Name="JamMan Delay" ProductID="0x4">
+				<Revisions>			
+					<Revision Version="1.0.0.0" ReleaseDate="May 25, 2010" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/JamManDelay/v1.0.0.0/updJamManDelayTar" />
+					<Revision Version="1.0.0.8" ReleaseDate="Dec 23, 2010" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/JamManDelay/v1.0.0.8/updJamManDelayTar" />
+					<Revision Version="1.0.1.0" ReleaseDate="May 11, 2011" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/JamManDelay/v1.0.1.0/updJamManDelayTar" />
+					<Revision Version="1.2.0.0" ReleaseDate="July 18, 2011" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/JamManDelay/v1.2.0.0/updJamManDelayTar" />
+					<Revision Version="1.3.0.0" ReleaseDate="August 20, 2012" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/JamManDelay/v1.3.0.0/updJamManDelayTar" />
+				</Revisions>
+			</Product>
+			<Product Name="JamMan Solo XT" ProductID="0x6">
+				<Revisions>
+					<Revision Version="1.03" ReleaseDate="October 27, 2012" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/JamManSoloXT/v1.03/updJamManX1Tar" />
+					<Revision Version="1.04" ReleaseDate="October 27, 2012" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/JamManSoloXT/v1.04/updJamManX1Tar" />
+					<Revision Version="1.05" ReleaseDate="November 9, 2012" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/JamManSoloXT/v1.05/updJamManX1Tar" />
+					<Revision Version="1.06" ReleaseDate="February 1, 2013" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/JamManSoloXT/v1.06/updJamManX1Tar" />
+					</Revisions>
+			</Product> 
+			<Product Name="JamManager" ProductID="0x5">
+				<Revisions>
+					<Revision Version="1.0.4.6" ReleaseDate="May 18, 2010" WinImageUrl="http://www.lexiconpro.com/updater/digitech/software/JamManager/v1.0.4.6/JamManagerInstaller.exe" />
+					<Revision Version="1.0.5.2" ReleaseDate="May 21, 2010" WinImageUrl="http://www.lexiconpro.com/updater/digitech/software/JamManager/v1.0.5.2/JamManagerInstaller.exe" />
+					<!--
+					<Revision Version="1.1.0.14" ReleaseDate="Dec 23, 2010" WinImageUrl="http://www.lexiconpro.com/updater/digitech/software/JamManager/v1.1.0.14/JamManagerInstaller.exe" MacImageUrl ="http://www.lexiconpro.com/updater/digitech/software/JamManager/v1.1.0.14/JamManager.pkg" />
+					<Revision Version="1.1.1.1" ReleaseDate="Jan 4, 2011" WinImageUrl="http://www.lexiconpro.com/updater/digitech/software/JamManager/v1.1.1.1/JamManagerInstaller.exe"  MacImageUrl ="http://www.lexiconpro.com/updater/digitech/software/JamManager/v1.1.1.1/JamManager.pkg"/>
+					-->
+					<Revision Version="1.1.1.2" ReleaseDate="Jan 14, 2011"  WinImageUrl="http://www.lexiconpro.com/updater/digitech/software/JamManager/v1.1.1.2/JamManagerInstaller.exe"  MacImageUrl="http://www.lexiconpro.com/updater/digitech/software/JamManager/v1.1.1.2/JamManager.pkg"/>
+					<Revision Version="1.1.1.3" ReleaseDate="Jan 13, 2012"  WinImageUrl="http://www.lexiconpro.com/updater/digitech/software/JamManager/v1.1.1.3/JamManagerInstaller.exe"/>
+				</Revisions>
+			</Product>
+			<Product Name="JamManagerXT" ProductID="0x7">
+				<Revisions>
+					<Revision Version="2.0.0" ReleaseDate="Dec 04, 2012"  WinImageUrl= 
+					"http://www.digitech.com/en-US/softwares/jammanager-xt-windows"  MacImageUrl=
+					"http://www.digitech.com/en-US/softwares/jammanager-xt-mac-os-x-1068-or-later-intel"/>
+				</Revisions>
+			</Product>
+		</Family>
+		<Family Name="ios Effect Processors" FamilyID="0x61">
+			<Product Name="iPB-10" ProductID="0x1">
+				<Ports>
+					<!--XP (no driver)-->
+					<Port Name="USB Audio Device"/>
+					<Port Name="USB-Audiogerät"/>
+					<!--Mac/Win-->
+					<Port Name="DigiTech iPB-10"/>
+				</Ports>
+				<Revisions>
+					<Revision Version="1.17.0.0" ReleaseDate="August 8, 2011" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/ipb10/iPB-10V17.DigBin" SpecialPostInstructions="You must wait a few seconds for the iPB-10 to complete it's factory reset sequence before using it or powering it down." />
+					<Revision Version="1.18.0.0" ReleaseDate="August 31, 2011" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/ipb10/iPB-10V18.DigBin" SpecialPostInstructions="You must wait a few seconds for the iPB-10 to complete it's factory reset sequence before using it or powering it down." />
+					<Revision Version="1.19.0.0" ReleaseDate="October 3, 2012" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/ipb10/iPB-10V19.DigBin" SpecialPostInstructions="You must wait a few seconds for the iPB-10 to complete it's factory reset sequence before using it or powering it down." />
+				</Revisions>				
+			</Product> 
+		</Family>
+		<Family Name="Vocalist" FamilyID="0x60">
+			<Product Name="Live FX" ProductID="0x2">
+				<Ports>
+					<!--XP (no driver)-->
+					<Port Name="USB Audio Device"/>
+					<Port Name="USB-Audiogerät"/>
+					<!--Mac/Win-->
+					<Port Name="DigiTech Vocalist Live FX"/>
+				</Ports>
+				<Revisions>
+					<Revision Version="DSP v1.0" ReleaseDate="May 28, 2013" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/LiveFX/v1.0_DSP1.ldr" />
+					<Revision Version="DSP v1.1" ReleaseDate="October 18, 2013" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/LiveFX/v1.1_DSP1.ldr" />
+					<Revision Version="DSP v1.3" ReleaseDate="September 16, 2014" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/LiveFX/v1.3_DSP1.ldr" />
+					<Revision Version="Firmware v1.0" ReleaseDate="May 28, 2013" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/LiveFX/v1.0_Update.bin"/>
+					<Revision Version="Firmware v1.1" ReleaseDate="September 16, 2014" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/LiveFX/v1.1_Update.bin"/>
+					<Revision Version="Firmware v1.2" ReleaseDate="November 14, 2014" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/LiveFX/v1.2_Update.bin"/>
+				</Revisions>				
+			</Product>
+			<Product Name="Live Harmony" ProductID="0x4">
+				<Ports>
+					<!--XP (no driver)-->
+					<Port Name="USB Audio Device"/>
+					<Port Name="USB-Audiogerät"/>
+					<!--Mac/Win-->
+					<Port Name="DigiTech Vocalist Live Harmony"/>
+				</Ports>
+				<Revisions>
+					<Revision Version="DSP v1.3" ReleaseDate="May 14, 2014" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/LiveHarmony/v1.3_DSP1.ldr" />
+					<Revision Version="Firmware v1.0" ReleaseDate="March 8, 2014" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/LiveHarmony/v1.0_Update.bin"/>
+					<Revision Version="Firmware v1.1" ReleaseDate="November 14, 2014" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/LiveHarmony/v1.1_Update.bin"/>
+				</Revisions>				
+			</Product> 
+			<Product Name="Live Librarian" ProductID="0x3">
+				<Revisions>
+					<Revision Version="v1.0" ReleaseDate="June 21, 2013" ImageUrl="http://www.lexiconpro.com/updater/digitech/software/LiveLibrarian/v1.0/v1.0.exe" />
+					<Revision Version="v1.0" ReleaseDate="June 21, 2013" ImageUrl="http://www.lexiconpro.com/updater/digitech/software/LiveLibrarian/v1.0/v1.0.dmg" />
+					<Revision Version="v1.1" ReleaseDate="June 9, 2014" ImageUrl="http://www.lexiconpro.com/updater/digitech/software/LiveLibrarian/v1.1/v1.1.exe" />
+					<Revision Version="v1.1" ReleaseDate="June 9, 2014" ImageUrl="http://www.lexiconpro.com/updater/digitech/software/LiveLibrarian/v1.1/v1.1.dmg" />
+					<Revision Version="v1.2" ReleaseDate="Sept 22, 2014" ImageUrl="http://www.lexiconpro.com/updater/digitech/software/LiveLibrarian/v1.2/v1.2.exe" />
+					<Revision Version="v1.2" ReleaseDate="Sept 22, 2014" ImageUrl="http://www.lexiconpro.com/updater/digitech/software/LiveLibrarian/v1.2/v1.2.dmg" />
+					<Revision Version="v1.2.2" ReleaseDate="April 3, 2015" ImageUrl="http://www.lexiconpro.com/updater/digitech/software/LiveLibrarian/v1.2.2/v1.2.2.exe" />
+					<Revision Version="v1.2.2" ReleaseDate="April 3, 2015" ImageUrl="http://www.lexiconpro.com/updater/digitech/software/LiveLibrarian/v1.2.2/v1.2.2.dmg" />
+				</Revisions>				
+			</Product> 
+		</Family>
+		<Family Name="TRIO" FamilyID="0x63">
+			<Product Name="TRIO" ProductID="0x42">
+				<Revisions>
+					<Revision Version="DSP v1.3" ReleaseDate="April 1, 2015" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/TRIO/v1.3_DSP1.ldr" />
+					<Revision Version="Firmware v1.1" ReleaseDate="Mar 3, 2015" ImageUrl="http://www.lexiconpro.com/updater/digitech/firmware/TRIO/v1.1_Update.bin"/>
+				</Revisions>				
+			</Product>
+		</Family>
+	</Brand> 
+	<Brand Name="Lexicon">
+		<Family Name="MX" FamilyID="0x1A">
+			<Product Name="MX200" ProductID="0x1" SpecialPreInstructions= "Before continuing, put your MX200 in Update mode:
+   &#8226; Unplug the Device
+   &#8226; Simultaneously hold the Store button and the Processor 2 Bypass button and plug the device back in
+   &#8226; When the display reads &quot;UP&quot; press Next below" >
+				<Ports>
+					<!--Vista (names are case sensitive)-->
+					<Port Name="Lexicon Mx200 Control"/>
+					<!--XP (CEntrance driver)-->
+					<Port Name="Lexicon MX200 Control"/>
+					<!--XP (no driver)-->
+					<Port Name="USB Audio Device"/>
+					<!--Mac-->
+					<Port Name="Lexicon Win USB 1-2 In/Out"/>
+				</Ports>
+				<Revisions> 
+					<Revision Version="1.0" ReleaseDate="May 9, 2005" ImageUrl="http://www.lexiconpro.com/updater/lexicon/firmware/mx200/M200_v10.DigBin" SpecialPostInstructions="You must power-cycle your MX200 before using it."/>
+					<Revision Version="1.4" ReleaseDate="July 5, 2005" ImageUrl="http://www.lexiconpro.com/updater/lexicon/firmware/mx200/M200_v14.DigBin" SpecialPostInstructions="You must power-cycle your MX200 before using it."/>
+					<Revision Version="1.5" ReleaseDate="Jan 31, 2006" ImageUrl="http://www.lexiconpro.com/updater/lexicon/firmware/mx200/M200_v15.DigBin" SpecialPostInstructions="You must power-cycle your MX200 before using it."/>
+					<Revision Version="1.6" ReleaseDate="Nov 21, 2006" ImageUrl="http://www.lexiconpro.com/updater/lexicon/firmware/mx200/M200_v16.DigBin" SpecialPostInstructions="You must power-cycle your MX200 before using it."/>
+					<Revision Version="1.7" ReleaseDate="Jan 22, 2007" ImageUrl="http://www.lexiconpro.com/updater/lexicon/firmware/mx200/M200_v17.DigBin" SpecialPostInstructions="You must power-cycle your MX200 before using it."/>
+					<Revision Version="1.8" ReleaseDate="Nov 17, 2008" ImageUrl="http://www.lexiconpro.com/updater/lexicon/firmware/mx200/M200_v18.DigBin" SpecialPostInstructions="You must power-cycle your MX200 before using it."/>
+				</Revisions>
+			</Product>
+			<Product Name="MX300" ProductID="0x5" SpecialPreInstructions="Before continuing, put your MX300 in update mode:
+   &#8226; Power off the device
+   &#8226; Simultaneously hold the Store button and the Effect Bypass button (left of Store) and power on the device
+   &#8226; When the display reads &quot;UP&quot; press Next below">
+
+				<Ports>
+					<!--Vista (names are case sensitive)-->
+					<Port Name="Lexicon Mx300 Control"/> 
+					<!--XP (CEntrance driver)-->
+					<Port Name="Lexicon MX300 Control"/>
+					<!--XP (no driver)-->
+					<Port Name="USB Audio Device"/>
+					<!--Mac-->
+					<Port Name="Lexicon Win USB 1-2 In/Out"/>
+				</Ports>
+				<Revisions> 
+					<Revision Version="1.0" ReleaseDate="May 9, 2007" ImageUrl="http://www.lexiconpro.com/updater/lexicon/firmware/mx300/M300_v10.DigBin" SpecialPostInstructions="You must power-cycle your MX300 before using it."/>
+					<Revision Version="1.1" ReleaseDate="Nov 17, 2008" ImageUrl="http://www.lexiconpro.com/updater/lexicon/firmware/mx300/M300_v11.DigBin" SpecialPostInstructions="You must power-cycle your MX300 before using it."/>
+				</Revisions>
+			</Product>
+			<!--IMPORTANT: The MX400 contains 3 virtual devices (product IDs) and therefore contains three product entries. Be sure to keep the following
+			entries in sync. The UpdateProductID attribute should be set to 0x2 for each.-->
+			<Product Name="MX400" ProductID="0x2" UpdateProductID="0x2" SpecialPreInstructions="Before continuing, put your MX400 in Update mode:
+   &#8226; Power off the device
+   &#8226; Simultaneously hold the Store button and the Effect Bypass button (left of Store) and power on the device
+   &#8226; When the display reads &quot;UP&quot; press Next below">
+				<Ports>
+					<!--Vista (names are case sensitive)-->
+					<Port Name="Lexicon Mx400 Control"/>
+					<!--XP (CEntrance driver)-->
+					<Port Name="Lexicon MX400 Control"/>
+					<!--XP (no driver)-->
+					<Port Name="USB Audio Device"/>
+					<!--Mac-->
+					<Port Name="Lexicon Win USB 1-2 In/Out"/>
+				</Ports>
+				<Revisions>
+					<Revision Version="1.0" ReleaseDate="June 21, 2006" ImageUrl="http://www.lexiconpro.com/updater/lexicon/firmware/mx400/M400_v10.DigBin" SpecialPostInstructions="You must power-cycle your MX400 before using it."/>
+					<Revision Version="1.1" ReleaseDate="Jan 22, 2007" ImageUrl="http://www.lexiconpro.com/updater/lexicon/firmware/mx400/M400_v11.DigBin" SpecialPostInstructions="You must power-cycle your MX400 before using it."/>
+					<Revision Version="1.2" ReleaseDate="Nov 17, 2008" ImageUrl="http://www.lexiconpro.com/updater/lexicon/firmware/mx400/M400_v12.DigBin" SpecialPostInstructions="You must power-cycle your MX400 before using it."/>
+				</Revisions>
+			</Product>
+			<Product Name="MX400" ProductID="0x3" UpdateProductID="0x2" SpecialPreInstructions="Before continuing, put your MX400 in Update mode:
+   &#8226; Power off the device
+   &#8226; Simultaneously hold the store button and the effect bypass button (left of store) and power on the device
+   &#8226; When the display reads &quot;UP&quot; press Next below.">
+				<Ports>
+					<!--Vista (names are case sensitive)-->
+					<Port Name="Lexicon Mx400 Control"/>
+					<!--XP (CEntrance driver)-->
+					<Port Name="Lexicon MX400 Control"/>
+					<!--XP (no driver)-->
+					<Port Name="USB Audio Device"/>
+					<!--Mac-->
+					<Port Name="Lexicon Win USB 1-2 In/Out"/>
+				</Ports>
+				<Revisions>
+					<Revision Version="1.0" ReleaseDate="June 21, 2006" ImageUrl="http://www.lexiconpro.com/updater/lexicon/firmware/mx400/M400_v10.DigBin" SpecialPostInstructions="You must power-cycle your MX400 before using it."/>
+					<Revision Version="1.1" ReleaseDate="Jan 22, 2007" ImageUrl="http://www.lexiconpro.com/updater/lexicon/firmware/mx400/M400_v11.DigBin" SpecialPostInstructions="You must power-cycle your MX400 before using it."/>
+					<Revision Version="1.2" ReleaseDate="Nov 17, 2008" ImageUrl="http://www.lexiconpro.com/updater/lexicon/firmware/mx400/M400_v12.DigBin" SpecialPostInstructions="You must power-cycle your MX400 before using it."/>
+				</Revisions>
+			</Product>
+			<Product Name="MX400" ProductID="0x4" UpdateProductID="0x2" SpecialPreInstructions="Before continuing, put your MX400 in Update mode:
+   &#8226; Power off the device
+   &#8226; Simultaneously hold the store button and the effect bypass button (left of store) and power on the device
+   &#8226; When the display reads &quot;UP&quot; press Next below.">
+				<Ports>
+					<!--Vista (names are case sensitive)-->
+					<Port Name="Lexicon Mx400 Control"/>
+					<!--XP (CEntrance driver)-->
+					<Port Name="Lexicon MX400 Control"/>
+					<!--XP (no driver)-->
+					<Port Name="USB Audio Device"/>
+					<!--Mac-->
+					<Port Name="Lexicon Win USB 1-2 In/Out"/>
+				</Ports>
+				<Revisions>
+					<Revision Version="1.0" ReleaseDate="June 21, 2006" ImageUrl="http://www.lexiconpro.com/updater/lexicon/firmware/mx400/M400_v10.DigBin" SpecialPostInstructions="You must power-cycle your MX400 before using it."/>
+					<Revision Version="1.1" ReleaseDate="Jan 22, 2007" ImageUrl="http://www.lexiconpro.com/updater/lexicon/firmware/mx400/M400_v11.DigBin" SpecialPostInstructions="You must power-cycle your MX400 before using it."/>
+					<Revision Version="1.2" ReleaseDate="Nov 17, 2008" ImageUrl="http://www.lexiconpro.com/updater/lexicon/firmware/mx400/M400_v12.DigBin" SpecialPostInstructions="You must power-cycle your MX400 before using it."/>
+				</Revisions>
+			</Product>
+		</Family>
+	</Brand>
+</Config>
