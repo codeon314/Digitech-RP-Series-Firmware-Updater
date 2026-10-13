@@ -14,10 +14,7 @@ This project is a modern, clean-room implementation of the original Harman NetUp
 ## Supported Devices
 Based on the original `UpdateTargets.xml`, this updater supports:
 - **DigiTech RP Series**: RP150, RP155, RP250, RP255, RP350, RP355, RP360, RP500, RP1000
-- **DigiTech Bass/Other**: BP355, GNX3000, GSP1101
-- **DigiTech Vocalist**: Live FX, Live Harmony
-- **Lexicon MX Series**: MX200, MX300, MX400
-- *(Note: JamMan and iPB-10 devices are listed in the targets file but may require specific USB modes or drivers).*
+- **DigiTech Bass/Other**: BP355
 
 ## Usage
 1. Connect your device via USB.
@@ -29,7 +26,7 @@ Based on the original `UpdateTargets.xml`, this updater supports:
 **Important**: Do not disconnect power or USB during the flashing process. If a flash fails mid-write, the device will remain in bootloader mode. Simply leave it plugged in, restart the application, and run the update again.
 
 ## Building from Source
-Open the solution in Visual Studio 2022 or later. The project targets modern .NET and uses standard Windows Forms. No third-party dependencies are required for the core update engine.
+Open the solution in Visual Studio 2026 or later. The project targets modern .NET 10 and uses standard Windows Forms. No third-party dependencies are required for the core update engine.
 
 ## Disclaimer
 This project is not affiliated with, endorsed by, or sponsored by Harman International, DigiTech, or Lexicon. Use this software at your own risk. While extensive care has been taken to ensure the flashing process is safe and matches the original OEM behavior, the authors are not responsible for bricked or damaged hardware.
