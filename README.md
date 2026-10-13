@@ -13,7 +13,7 @@ This project is a modern, clean-room implementation of the original Harman NetUp
 
 ## Supported Devices
 Based on the original `UpdateTargets.xml`, this updater supports:
-- **DigiTech RP Series**: RP150, RP155, RP250, RP255, RP350, RP355, RP360, RP500, RP1000
+- **DigiTech RP Series**: RP150, RP155, RP250, RP255, RP350, RP355, RP500, RP1000
 - **DigiTech Bass/Other**: BP355
 
 ## Usage
