@@ -19,18 +19,18 @@ partial class MainForm
         scanPageBody = new Label();
         scanStatus = new Label();
         devicePage = new Panel();
+        deviceList = new ListBox();
         devicePageTitle = new Label();
         devicePageBody = new Label();
-        deviceList = new ListBox();
         filterPage = new Panel();
         filterPageTitle = new Label();
         filterPageBody = new Label();
         filterNewest = new CheckBox();
         filterAll = new CheckBox();
         revisionPage = new Panel();
+        revisionList = new ListBox();
         revisionPageTitle = new Label();
         revisionPageBody = new Label();
-        revisionList = new ListBox();
         confirmPage = new Panel();
         confirmPageTitle = new Label();
         confirmPageBody = new Label();
@@ -38,8 +38,8 @@ partial class MainForm
         confirmCheck = new CheckBox();
         dryRunCheck = new CheckBox();
         preparePage = new Panel();
-        preparePageTitle = new Label();
         prepareLabel = new Label();
+        preparePageTitle = new Label();
         downloadPage = new Panel();
         downloadPageTitle = new Label();
         downloadPageBody = new Label();
@@ -164,6 +164,17 @@ partial class MainForm
         devicePage.Size = new Size(714, 833);
         devicePage.TabIndex = 2;
         // 
+        // deviceList
+        // 
+        deviceList.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
+        deviceList.IntegralHeight = false;
+        deviceList.Location = new Point(26, 160);
+        deviceList.Margin = new Padding(4, 5, 4, 5);
+        deviceList.Name = "deviceList";
+        deviceList.Size = new Size(655, 364);
+        deviceList.TabIndex = 2;
+        deviceList.SelectedIndexChanged += DeviceList_SelectedIndexChanged;
+        // 
         // devicePageTitle
         // 
         devicePageTitle.AutoSize = true;
@@ -184,17 +195,6 @@ partial class MainForm
         devicePageBody.Size = new Size(657, 67);
         devicePageBody.TabIndex = 1;
         devicePageBody.Text = "Select a device";
-        // 
-        // deviceList
-        // 
-        deviceList.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
-        deviceList.IntegralHeight = false;
-        deviceList.Location = new Point(26, 160);
-        deviceList.Margin = new Padding(4, 5, 4, 5);
-        deviceList.Name = "deviceList";
-        deviceList.Size = new Size(655, 364);
-        deviceList.TabIndex = 2;
-        deviceList.SelectedIndexChanged += DeviceList_SelectedIndexChanged;
         // 
         // filterPage
         // 
@@ -266,6 +266,17 @@ partial class MainForm
         revisionPage.Size = new Size(714, 833);
         revisionPage.TabIndex = 4;
         // 
+        // revisionList
+        // 
+        revisionList.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
+        revisionList.IntegralHeight = false;
+        revisionList.Location = new Point(26, 160);
+        revisionList.Margin = new Padding(4, 5, 4, 5);
+        revisionList.Name = "revisionList";
+        revisionList.Size = new Size(655, 364);
+        revisionList.TabIndex = 2;
+        revisionList.SelectedIndexChanged += RevisionList_SelectedIndexChanged;
+        // 
         // revisionPageTitle
         // 
         revisionPageTitle.AutoSize = true;
@@ -286,17 +297,6 @@ partial class MainForm
         revisionPageBody.Size = new Size(657, 67);
         revisionPageBody.TabIndex = 1;
         revisionPageBody.Text = "Select the firmware version to install";
-        // 
-        // revisionList
-        // 
-        revisionList.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
-        revisionList.IntegralHeight = false;
-        revisionList.Location = new Point(26, 160);
-        revisionList.Margin = new Padding(4, 5, 4, 5);
-        revisionList.Name = "revisionList";
-        revisionList.Size = new Size(655, 364);
-        revisionList.TabIndex = 2;
-        revisionList.SelectedIndexChanged += RevisionList_SelectedIndexChanged;
         // 
         // confirmPage
         // 
@@ -376,6 +376,15 @@ partial class MainForm
         preparePage.Size = new Size(714, 833);
         preparePage.TabIndex = 6;
         // 
+        // prepareLabel
+        // 
+        prepareLabel.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
+        prepareLabel.Location = new Point(26, 160);
+        prepareLabel.Margin = new Padding(4, 0, 4, 0);
+        prepareLabel.Name = "prepareLabel";
+        prepareLabel.Size = new Size(657, 367);
+        prepareLabel.TabIndex = 1;
+        // 
         // preparePageTitle
         // 
         preparePageTitle.AutoSize = true;
@@ -386,15 +395,6 @@ partial class MainForm
         preparePageTitle.Size = new Size(238, 36);
         preparePageTitle.TabIndex = 0;
         preparePageTitle.Text = "Prepare to Update";
-        // 
-        // prepareLabel
-        // 
-        prepareLabel.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
-        prepareLabel.Location = new Point(26, 160);
-        prepareLabel.Margin = new Padding(4, 0, 4, 0);
-        prepareLabel.Name = "prepareLabel";
-        prepareLabel.Size = new Size(657, 367);
-        prepareLabel.TabIndex = 1;
         // 
         // downloadPage
         // 

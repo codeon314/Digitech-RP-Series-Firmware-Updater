@@ -124,7 +124,7 @@ Supported models: RP150, RP155, RP250, RP255, RP350, RP355, BP355, RP500, RP1000
 
 Connect a supported device and power it on, then click Next. Firmware images are bundled with this application, so no internet connection is required.
 
-All MIDI traffic is logged to NetUpdaterClone.log next to this program.</value>
+All MIDI traffic is logged to Digitech RP Series Firmware Updater.log next to this program.</value>
   </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
